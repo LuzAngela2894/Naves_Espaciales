@@ -15,7 +15,7 @@ public class Conexion {
 
     public static final String URL = "jdbc:mysql://localhost:3306/bd_naves_espaciales";
     public static final String USER = "root";
-    public static final String CLAVE = "rZcqL)438WS{)g-kA";
+    public static final String CLAVE = "CONTRASEÑA";
 
     protected Connection enlace;
 
