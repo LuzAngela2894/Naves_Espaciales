@@ -22,7 +22,7 @@ public class Model {
     public Model() {
     }
 
-    //CONSTRUCTR DE LA CLASE MODELO PARA GENERAR OBJETO
+    //CONSTRUCTOR DE LA CLASE MODELO PARA GENERAR OBJETO
     public Model(Integer id, String nombre, String tipo, String pais, Double combustible, Double empuje) {
         this.id = id;
         this.nombre = nombre;
