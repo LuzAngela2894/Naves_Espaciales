@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"conexion","l":"Conexion"},{"p":"view","l":"Consultas"},{"p":"controller","l":"Controller"},{"p":"interfaz","l":"DAO"},{"p":"interfaz","l":"InterfazDAO"},{"p":"model","l":"Model"},{"p":"naves_espaciales","l":"Naves_Espaciales"},{"p":"view","l":"View"}]
